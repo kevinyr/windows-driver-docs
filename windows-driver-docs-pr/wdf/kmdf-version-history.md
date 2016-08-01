@@ -11,7 +11,7 @@ keywords: ["kernel-mode drivers WDK KMDF , revision history", "KMDF WDK , revisi
 
 This topic lists versions of Kernel-Mode Driver Framework (KMDF), the corresponding versions of the Windows operating system, and the changes made in each release.
 
-The following table shows the release history of the KMDF library:
+The following table shows the release history of the KMDF library: chagne
 
 <table>
 <colgroup>
