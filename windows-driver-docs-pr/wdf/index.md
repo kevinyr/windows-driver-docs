@@ -5,7 +5,7 @@ description: This section describes Windows Driver Frameworks (WDF) driver devel
 ms.assetid: 46009B18-7EDD-4E58-B561-36775A335B87
 ---
 
-# WDF Driver Development Guide
+# The AWESOME WDF Driver Development Guide
 
 
 This section describes Windows Driver Frameworks (WDF) driver development concepts, including power management, I/O requests, and interrupt handling.
